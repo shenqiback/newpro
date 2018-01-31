@@ -4,7 +4,7 @@
 <?php get_header(); ?>
 
 <div id="mainImg">
-    <img src="<?php header_image(); ?>" width="960" height="350" alt="">
+    <img src="<?php header_image(); ?>" width="960" height="350">
 </div>
 
 <div id="wrapper">
