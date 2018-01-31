@@ -1,4 +1,5 @@
 <!-- this is a html comment -->
+<!-- this is another comment -->
 
 <?php get_header(); ?>
 
