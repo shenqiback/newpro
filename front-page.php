@@ -1,3 +1,5 @@
+<!-- this is a html comment -->
+
 <?php get_header(); ?>
 
 <div id="mainImg">
